@@ -171,4 +171,4 @@ The recognizable commands by the interpreter are the following:
 
 Salome Bassey | Github: [lomesey41](mailto:uc.salome2@gmail.com) 
 
-Nzemeka Akponor | Github: [MissMunawwarah](mailto:@gmail.com)
+Adigun Munawwarah | Github: [MissMunawwarah](mailto:@gmail.com)
