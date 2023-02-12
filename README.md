@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Salome Bassey | Github: [lomesey41](mailto:uc.salome2@gmail.com) 
+Salome Bassey | Github: [lomsey41](mailto:uc.salome2@gmail.com) 
 
 Adigun Munawwarah | Github: [MissMunawwarah](mailto:madigun39@gmail.com)
